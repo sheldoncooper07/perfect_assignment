@@ -1,4 +1,4 @@
-# hungalg
+# Perfect Assignment
 
 A python implementation of [the Hungarian Algorithm](http://en.wikipedia.org/wiki/Hungarian_algorithm). Initially made to solve [the 345th Project Euler problem](https://projecteuler.net/problem=345).
 
